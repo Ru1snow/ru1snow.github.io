@@ -1,13 +1,13 @@
 # Site settings
 title: 红蓝宝都是刚玉
-SEOTitle: 滴滴答
+SEOTitle: 红蓝宝都是刚玉
 header-img: img/post-bg-desk.jpg
 email: ru1snow.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+description:"Geosciences"
+keyword: "矿物学、岩石学、古生物学、构造地质学"
+url: "https://ru1snow.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/ru1snow/ru1snow.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
